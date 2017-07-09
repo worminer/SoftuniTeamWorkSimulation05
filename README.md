@@ -11,8 +11,7 @@
 3. Петко Костадинов - **petkoxray**
 4. Йосиф Плачков - 	**josif_plachkov**
 
-#### Task is to create a Mock-up of Productivity Board
-
+### Task is to create a Mock-up of Productivity Board
 Tools:
 * Balsamiq Mockups 3
 
