@@ -1,11 +1,11 @@
-#Productivity Board
+# Productivity Board
 
-#Important!!!
+# Important!!!
 **You can see the end product exported to:(MainProjectFiles.pdf)**
 1. **PDF - MainProjectFiles.pdf.**
 2. **PNG - images inside of "Export" Folder.**
 
-###Contributors:
+### Contributors:
 1. Hristian Bogdanov - **hristian.bogdanov**
 2. Martin Dimitrov - **worminer**
 3. Петко Костадинов - **petkoxray**
